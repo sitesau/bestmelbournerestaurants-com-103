@@ -1,0 +1,19 @@
+{
+  "wheel_id": 322,
+  "structure": "umbrella",
+  "slug": "bestmelbournerestaurants-com-103",
+  "project": "restaurants-melbourne-comparison-b2ffc82bfc841b23b3c1ff63dfb268",
+  "parent_t1_ref": "bestmelbournerestaurants-com-151",
+  "node_role": "feeder",
+  "money_target": "bestmelbournerestaurants.com.au",
+  "primary_kw": "restaurants melbourne comparison",
+  "intended_url": "https://aumedia.neocities.org/restaurants-melbourne-comparison-b2ffc82bfc841b23b3c1ff63dfb268/",
+  "writeback_nonce": "b49262393658ddee",
+  "links": [
+    {
+      "target_url": "http://restaurants-melbourne-502c9d844d6216570e5f503097564e9bbbe4267f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "restaurants melbourne",
+      "rel": "follow"
+    }
+  ]
+}
